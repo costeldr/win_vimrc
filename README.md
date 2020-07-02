@@ -2,6 +2,6 @@
 
 ## Plugins added:
 
-[itchyny/lightline](https://github.com/itchyny/lightline.vim.git)
+[itchyny/lightline](https://github.com/itchyny/lightline.vim.git)^M
 [morhetz/gruvbox](https://github.com/morhetz/gruvbox.git)
 [tpope/vim-surround](https://github.com/tpope/vim-surround.git)
